@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ej.biblioteca","l":"Biblioteca"},{"p":"ej.biblioteca","l":"Genero"},{"p":"ej.biblioteca","l":"Libro"},{"p":"ej.biblioteca","l":"ListaLibros"}]
